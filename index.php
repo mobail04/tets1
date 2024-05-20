@@ -9,7 +9,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Эх, прокачу!</title>
+    <title>!</title>
 </head>
 <body>
 <!DOCTYPE html>
@@ -17,14 +17,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Эх, прокачу!</title>
+    <title>!</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     
         <header class = "header">
             <div class = "logo">
-                <img src="img/2.jpg" alt="Logo" class = "logoimage">
+                <img src="img/" alt="Logo" class = "logoimage">
             </div>
                 </div>
                 <nav class = "navigt">
@@ -41,15 +41,15 @@
             </div>
         </header>
         <div class = "main">
-        <img src="img/6.jpg" alt="Logo" class = "imageS">
+        <img src="img/" alt="Logo" class = "imageS">
 </div>
 <div class = "text">
-<h1>Любая Машина к Вашим услугам<h1>
+<h1> к Вашим услугам<h1>
 </div>
 </body>
 <footer class = "footer">
         <div class = "logo">
-            <img src="img/1.jpg" alt="Logo" class = "logoimage">
+            <img src="img/" alt="Logo" class = "logoimage">
         </div>
         <nav class = "navig">
             <span>Заявку можно оставлять 24/7</span>
@@ -57,8 +57,8 @@
             <span></span>
         </nav>
         <div class="contacts">
-            <p>Phone:89189037654</p>
-            <p>Email:procat!@mail.ru</p>
+            <p>Phone:8914</p>
+            <p>Email:!@mail.ru</p>
         </div>
     </footer>
 </html>
